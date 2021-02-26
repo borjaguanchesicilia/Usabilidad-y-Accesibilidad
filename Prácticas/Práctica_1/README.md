@@ -63,7 +63,7 @@
 
 ## NAVEGADOR: Firefox
 
-![Peticiones Firefox][peticionesChromeFirefoox]
+![Peticiones Firefox][peticionesFirefoox]
 
 
 * **¿Qué peticiones desencadena la consulta?**	
@@ -104,8 +104,8 @@
 [lineasJS]: images/lineasJSChrome.jpg "Lineas JavaScript Google Chrome"
 [lineasCSS]: images/lineasCSSChrome.jpg "Lineas CSS Google Chrome"
 [lineasHTML]: images/lineasHTMLChrome.jpg "Lineas HTML Google Chrome"
-[peticionesChromeFirefox]: images/peticionesFirefox.jpg "Peticiones Firefox"
+[peticionesFirefox]: images/peticionesFirefox.jpg "Peticiones Firefox"
 [cookiesFirefox]: images/cookiesFirefox.JPG "Cookies Firefox"
-[lineasJSFirefox]: images/lineasJSFirefox.jpg "Lineas JavaScript Firefox"
-[lineasCSSFirefox]: images/lineasCSSFirefox.jpg "Lineas CSS Firefox"
-[lineasHTMLFirefox]: images/lineasHTMLFirefox.jpg "Lineas HTML Firefox"
+[lineasJSFirefox]: images/lineasJSFirefox.JPG "Lineas JavaScript Firefox"
+[lineasCSSFirefox]: images/lineasCSSFirefox.JPG "Lineas CSS Firefox"
+[lineasHTMLFirefox]: images/lineasHTMLFirefox.JPG "Lineas HTML Firefox"
