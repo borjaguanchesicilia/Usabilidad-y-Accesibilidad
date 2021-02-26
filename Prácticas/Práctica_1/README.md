@@ -81,7 +81,7 @@
 * **¿Qué DNS tiene el servidor?**
 
 		
-	* * El DNS del servidor es: www3.gobiernodecanarias.org
+	* El DNS del servidor es: www3.gobiernodecanarias.org
 		
 * **¿Qué IP tiene tiene el servidor?**
 
