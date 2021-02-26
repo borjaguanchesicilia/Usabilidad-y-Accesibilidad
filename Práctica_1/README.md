@@ -25,7 +25,13 @@
 	 
 	
 * **¿Qué DNS tiene el servidor?**
+
+	* El DNS del servidor es: https://www.gobiernodecanarias.org/
+	
 * **¿Qué IP tiene tiene el servidor?**
+
+	* El servidor tiene la IP: 93.188.137.126
+	
 * **¿La página tiene alguna cookie? ¿Cuáles?**
 
 	* Si, tiene 2:
