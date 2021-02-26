@@ -11,12 +11,12 @@
 
 * **¿Qué peticiones desencadena la consulta?**
 
-	* Desencadena 22 peticiones, que son: 1 documento HTML, 3 de script, 4 de hoja de estilos CSS, 13 fotos (png y jpge) y 1 favicon.
+	* Desencadena 22 peticiones, que son: 1 documento HTML, 3 de script, 4 de hojas de estilos CSS, 13 fotos (png y jpge) y 1 favicon.
 	
 	
 * **¿Qué tipo de petición estás realizando?**
 
-	* Se realizan peticiones HTTP de tipo GET, porque la pagina no necesita de ninguna informacion que provea el usuario.
+	* Se realizan peticiones HTTP de tipo GET, porque la página no necesita de ninguna información que provea el usuario.
 	
 	
 * **¿Qué código de estatus devuelve?**
@@ -96,7 +96,7 @@
 		
 * **¿Qué idioma acepta?**
 
-	* En este caso, el ordenador lo tengo configurado n ingles: en-US,en;q=0.5
+	* En este caso, el ordenador lo tengo configurado en ingles: en-US,en;q=0.5
 
 * **Alguna línea de código JavaScript.**
 
