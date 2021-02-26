@@ -68,15 +68,15 @@
 
 * **¿Qué peticiones desencadena la consulta?**
 
-	* u
+	* Desencadena 18 peticiones, que son: 1 documento HTML, 3 de script,  de hoja de estilos CSS, 13 fotos (png y jpge) y 1 favicon.
 		
 * **¿Qué tipo de petición estás realizando?**
 	
-	* ffd	
+	* Se realizan peticiones HTTP de tipo GET, porque la página no necesita de ninguna información que provea el usuario.	
 	
 * **¿Qué código de estatus devuelve?**
  	
-	* ffd
+	* Los códigos de las peticiones devuelven el código 200 --> OK y el código 304 --> No modificado.
 		
 * **¿Qué DNS tiene el servidor?**
 
