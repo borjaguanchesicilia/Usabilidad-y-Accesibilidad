@@ -26,7 +26,7 @@
 	
 * **¿Qué DNS tiene el servidor?**
 
-	* El DNS del servidor es: https://www.gobiernodecanarias.org/
+	* El DNS del servidor es: www3.gobiernodecanarias.org
 	
 * **¿Qué IP tiene tiene el servidor?**
 
@@ -63,36 +63,49 @@
 
 ## NAVEGADOR: Firefox
 
-![Peticiones Firefox][peticionesFirefoox]
+![Peticiones Firefox][peticionesFirefox]
 
 
-* **¿Qué peticiones desencadena la consulta?**	
-* **¿Qué tipo de petición estás realizando?**	
-* **¿Qué código de estatus devuelve?**	
+* **¿Qué peticiones desencadena la consulta?**
+
+	* u
+		
+* **¿Qué tipo de petición estás realizando?**
+	
+	* ffd	
+	
+* **¿Qué código de estatus devuelve?**
+ 	
+	* ffd
+		
 * **¿Qué DNS tiene el servidor?**
-* **¿Qué IP tiene tiene el servidor?
+
+		
+	* * El DNS del servidor es: www3.gobiernodecanarias.org
+		
+* **¿Qué IP tiene tiene el servidor?**
+
+		
+	* El servidor tiene la IP: 93.188.136.126
+		
 * **¿La página tiene alguna cookie? ¿Cuáles?**
 
 	* Si, tiene 1:
 	
 	![Cookies Firefox][cookiesFirefox]
-	
-	
+		
 * **¿Qué idioma acepta?**
 
 	* En este caso, el ordenador lo tengo configurado n ingles: en-US,en;q=0.5
 
-
 * **Alguna línea de código JavaScript.**
 
 	![Lineas JS Firefox][lineasJSFirefox]
-	
-	
+		
 * **Alguna línea de código CSS que se aplique.**
 
 	![Lineas CSS Firefox][lineasCSSFirefox]
-	
-	
+		
 * **Alguna línea de código HTML que se aplique.**
 
 	![Lineas HTML Firefox][lineasHTMLFirefox]
