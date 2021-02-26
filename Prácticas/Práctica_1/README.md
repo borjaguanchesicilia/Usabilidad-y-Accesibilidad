@@ -63,6 +63,8 @@
 
 ## NAVEGADOR: Firefox
 
+![Peticiones Firefox][peticionesChromeFirefoox]
+
 
 * **¿Qué peticiones desencadena la consulta?**	
 * **¿Qué tipo de petición estás realizando?**	
@@ -70,12 +72,30 @@
 * **¿Qué DNS tiene el servidor?**
 * **¿Qué IP tiene tiene el servidor?
 * **¿La página tiene alguna cookie? ¿Cuáles?**
+
+	* Si, tiene 1:
+	
+	![Cookies Firefox][cookiesFirefox]
+	
+	
 * **¿Qué idioma acepta?**
 
 	* En este caso, el ordenador lo tengo configurado n ingles: en-US,en;q=0.5
+
+
 * **Alguna línea de código JavaScript.**
+
+	![Lineas JS Firefox][lineasJSFirefox]
+	
+	
 * **Alguna línea de código CSS que se aplique.**
+
+	![Lineas CSS Firefox][lineasCSSFirefox]
+	
+	
 * **Alguna línea de código HTML que se aplique.**
+
+	![Lineas HTML Firefox][lineasHTMLFirefox]
 
 
 [peticionesChrome]: images/peticionesChrome.jpg "Peticiones Google Chrome"
@@ -84,3 +104,8 @@
 [lineasJS]: images/lineasJSChrome.jpg "Lineas JavaScript Google Chrome"
 [lineasCSS]: images/lineasCSSChrome.jpg "Lineas CSS Google Chrome"
 [lineasHTML]: images/lineasHTMLChrome.jpg "Lineas HTML Google Chrome"
+[peticionesChromeFirefox]: images/peticionesFirefox.jpg "Peticiones Firefox"
+[cookiesFirefox]: images/cookiesFirefox.JPG "Cookies Firefox"
+[lineasJSFirefox]: images/lineasJSFirefox.jpg "Lineas JavaScript Firefox"
+[lineasCSSFirefox]: images/lineasCSSFirefox.jpg "Lineas CSS Firefox"
+[lineasHTMLFirefox]: images/lineasHTMLFirefox.jpg "Lineas HTML Firefox"
