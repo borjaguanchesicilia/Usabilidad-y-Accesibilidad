@@ -71,14 +71,16 @@
 * **¿Qué IP tiene tiene el servidor?
 * **¿La página tiene alguna cookie? ¿Cuáles?**
 * **¿Qué idioma acepta?**
+
+	* En este caso, el ordenador lo tengo configurado n ingles: en-US,en;q=0.5
 * **Alguna línea de código JavaScript.**
 * **Alguna línea de código CSS que se aplique.**
 * **Alguna línea de código HTML que se aplique.**
 
 
 [peticionesChrome]: images/peticionesChrome.jpg "Peticiones Google Chrome"
-[cookies]: images/cookies.JPG "Cookies Google Chrome"
-[idiomas]: images/idiomas.jpg "Idiomas Google Chrome"
-[lineasJS]: images/lineasJS.jpg "Lineas JavaScript Google Chrome"
-[lineasCSS]: images/lineasCSS.jpg "Lineas CSS Google Chrome"
-[lineasHTML]: images/lineasHTML.jpg "Lineas HTML Google Chrome"
+[cookies]: images/cookiesChrome.JPG "Cookies Google Chrome"
+[idiomas]: images/idiomasChrome.jpg "Idiomas Google Chrome"
+[lineasJS]: images/lineasJSChrome.jpg "Lineas JavaScript Google Chrome"
+[lineasCSS]: images/lineasCSSChrome.jpg "Lineas CSS Google Chrome"
+[lineasHTML]: images/lineasHTMLChrome.jpg "Lineas HTML Google Chrome"
