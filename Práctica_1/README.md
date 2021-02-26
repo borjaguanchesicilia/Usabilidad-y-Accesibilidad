@@ -10,7 +10,7 @@
 
 * **¿Qué peticiones desencadena la consulta?**
 
-	* Desencadena 22 peticiones, que son 1 documento HTML, 3 de scrip, 4 de hoja de estilos CSS, 13 fotos (png y jpge) y 1 favicon.
+	* Desencadena 22 peticiones, que son: 1 documento HTML, 3 de script, 4 de hoja de estilos CSS, 13 fotos (png y jpge) y 1 favicon.
 	
 * **¿Qué tipo de petición estás realizando?**
 
