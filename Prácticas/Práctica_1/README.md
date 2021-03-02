@@ -117,7 +117,7 @@
 [lineasJS]: images/lineasJSChrome.jpg "Lineas JavaScript Google Chrome"
 [lineasCSS]: images/lineasCSSChrome.jpg "Lineas CSS Google Chrome"
 [lineasHTML]: images/lineasHTMLChrome.jpg "Lineas HTML Google Chrome"
-[peticionesFirefox]: images/peticionesFirefox.jpg "Peticiones Firefox"
+[peticionesFirefox]: images/peticionesFirefox.JPG "Peticiones Firefox"
 [cookiesFirefox]: images/cookiesFirefox.JPG "Cookies Firefox"
 [lineasJSFirefox]: images/lineasJSFirefox.JPG "Lineas JavaScript Firefox"
 [lineasCSSFirefox]: images/lineasCSSFirefox.JPG "Lineas CSS Firefox"
