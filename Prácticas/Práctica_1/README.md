@@ -68,7 +68,7 @@
 
 * **¿Qué peticiones desencadena la consulta?**
 
-	* Desencadena 18 peticiones, que son: 1 documento HTML, 3 de script,  de hoja de estilos CSS, 13 fotos (png y jpge) y 1 favicon.
+	* Desencadena 18 peticiones, que son: 1 documento HTML, 3 de script, 13 fotos (png y jpge) y 1 favicon. Por otro lado, el navegador Firefox en el que desarrollamos la práctica no recibe las peticiones de hoja de estilos CSS, sin embargo, en la sección de Style Editor si podemos ver el CSS que se utiliza.
 		
 * **¿Qué tipo de petición estás realizando?**
 	
